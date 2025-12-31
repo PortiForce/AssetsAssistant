@@ -54,3 +54,5 @@ TestResult.xml
 nunit-*.xml
 /PortiForce.AssetsAssistant/.vs
 /PortiForce.AssetsAssistant/PortiForce.AssetsAssistant.sln.DotSettings.user
+/PortiForce.AssetsAssistant/Presentation/PortiForce.AssetsAssistant.Api/PortiForce.AssetsAssistant.Api.csproj.user
+/PortiForce.AssetsAssistant/Presentation/PortiForce.AssetsAssistant.Web.IdentityHost/PortiForce.AssetsAssistant.Web.IdentityHost.csproj.user
