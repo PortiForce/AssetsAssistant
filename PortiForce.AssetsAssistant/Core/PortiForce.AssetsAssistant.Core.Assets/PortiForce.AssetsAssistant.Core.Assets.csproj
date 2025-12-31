@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<InterceptorsPreviewNamespaces>$(MSBuildProjectName)</InterceptorsPreviewNamespaces>
+		<LangVersion>latest</LangVersion>
+		<CETCompat>false</CETCompat>
+		<EnableNETAnalyzers>false</EnableNETAnalyzers>
+		<RunAnalyzers>false</RunAnalyzers>
+		<RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
+		<RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>
+	</PropertyGroup>
+
+</Project>

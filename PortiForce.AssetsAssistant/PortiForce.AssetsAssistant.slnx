@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/01 - Core/">
+    <Project Path="Core/PortiForce.AssetsAssistant.Core.Assets.Application/PortiForce.AssetsAssistant.Core.Assets.Application.csproj" Id="87bd00f7-5b6a-4855-804f-5078b9f28ed9" />
+    <Project Path="Core/PortiForce.AssetsAssistant.Core.Assets/PortiForce.AssetsAssistant.Core.Assets.csproj" />
+  </Folder>
+  <Folder Name="/02 - Integration/" />
+  <Folder Name="/02 - Integration/Exchange/" />
+  <Folder Name="/03 - DataAccess/" />
+  <Folder Name="/04 - Services/" />
+  <Folder Name="/04 - Services/Parsers/" />
+  <Folder Name="/05 - Presentation/">
+    <Project Path="Presentation/PortiForce.AssetsAssistant.Api/PortiForce.AssetsAssistant.Api.csproj" Id="8dfe07db-c3fc-4b05-9600-c294e9eceee0" />
+    <Project Path="Presentation/PortiForce.AssetsAssistant.Web.IdentityHost/PortiForce.AssetsAssistant.Web.IdentityHost.csproj" Id="e690fa06-d257-42ce-8ea8-d1a1620b8f61" />
+  </Folder>
+  <Folder Name="/06 - Tests/">
+    <Project Path="Tests/PortiForce.AssetsAssistant.Core.Assets.Tests/PortiForce.AssetsAssistant.Core.Assets.Tests.csproj" Id="b7af4f4d-8a34-4fff-b128-2cd61d791afa" />
+  </Folder>
+</Solution>
