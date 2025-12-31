@@ -4,15 +4,43 @@ public enum AssetType
 {
     Other = 0,
 
-    Stock = 1,
+    /// <summary>
+    /// Fiat currencies
+    /// </summary>
+    Cash = 1,
 
-    Fiat = 2,
+    /// <summary>
+    /// Common/Preferred shares
+    /// </summary>
+    Stock = 2,
 
-    IndexOrETF = 3,
+    /// <summary>
+    /// ETFs, Mutual Funds, and Index Funds
+    /// </summary>
+    Fund = 3,
 
-    Metal = 4,
+    ///<summary>
+    ///Gold, Silver, Oil
+    ///</summary>
+    Commodity = 4,      
 
-    Crypto = 5,
+    /// <summary>
+    /// Digital assets (BTC, ETH)
+    /// </summary>
+    Cryptocurrency = 5,
 
-    StableCoin = 6
+    /// <summary>
+    /// Pegged digital assets (USDC, USDT)
+    /// </summary>
+    Stablecoin = 6,
+
+    /// <summary>
+    /// Bonds, T-Bills, CDs
+    /// </summary>
+    FixedIncome = 7,
+
+    /// <summary>
+    /// Physical property or REITs
+    /// </summary>
+    RealEstate = 8 
 }
